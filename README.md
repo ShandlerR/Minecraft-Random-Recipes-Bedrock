@@ -18,5 +18,7 @@ If you want to change which files are ignored in the randomization, do the follo
 * Awkward Potion
 * Splash Potion
 * Dragon Breath Potion
+* Wooden Tools
 ## Known Bugs:
-* Dyes are not properly implemented
+* Dyes are not properly implemented, their data is not removed from the original recipe, and is not brought over to the dye's new recipe
+* Wooden Tools cannot be randomized
