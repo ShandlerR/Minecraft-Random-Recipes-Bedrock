@@ -1,6 +1,9 @@
 # Minecraft Randomized Crafting Recipe
 ## Description:
 This datapack will randomize all crafting recipes in minecraft!
+## Requirements:
+* Python3(Optional)
+* Minecraft Bedrock
 ## Roll Recipes:
 The version of minecraft already has all crafting recipes randomized once over, besides a few exceptions (see below). If you want to do a reroll, do the following:
 * open up the datapack 
