@@ -22,6 +22,8 @@ If you want to change which files are ignored in the randomization, do the follo
 * Splash Potion
 * Dragon Breath Potion
 * Wooden Tools
+## Helpful Links:
+[Microsoft's Minecraft Recipe Documentation](https://docs.microsoft.com/en-us/minecraft/creator/reference/content/recipereference/)
 ## Known Bugs:
 * Dyes are not properly implemented, their data is not removed from the original recipe, and is not brought over to the dye's new recipe
 * Wooden Tools cannot be randomized
